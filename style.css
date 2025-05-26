@@ -1,0 +1,13 @@
+.name {
+  display: flex;
+  justify-content: center;
+}
+.information {
+  display: flex;
+  justify-content: center;
+  font-size: large;
+}
+.head {
+  display: flex;
+  justify-content: center;
+}
